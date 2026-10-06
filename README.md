@@ -6,6 +6,6 @@
 2. MBTI : INTJ
 ```
 
-!(<img width="736" height="736" alt="_" src="https://github.com/user-attachments/assets/4c64cb69-85d4-46ec-87db-4391fa188cd1" />)
+<img width="736" height="736" alt="_" src="https://github.com/user-attachments/assets/4c64cb69-85d4-46ec-87db-4391fa188cd1" />
 
      
